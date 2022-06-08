@@ -1,0 +1,12 @@
+rootDirectory
+NoteBook/
+specialFileName
+TODO
+fileExtension
+.txt
+dateFormat
+[%1$Td-%1$Tb-%1$TY %1$tI:%1$tM%1$Tp %1$Ta(GMT+6)]
+useDefaultEncryptionPassword
+yes
+defaultEncryptionPassword
+testPassword

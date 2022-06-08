@@ -1,0 +1,2 @@
+javac NoteBookUI.java
+pause
