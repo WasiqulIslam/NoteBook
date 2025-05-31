@@ -7,7 +7,7 @@ General usage:
 Just open the notebook, write something and save and close. It will save the note for today's date, you don't need to mention the date.
 
 Special usage:
-Open the notebook, enter passord/code twice. write something and save and close. It will save the note for today's date, you don't need to mention the date. You have to remember the password otherwise you will lose you notes. For the first time decide about the pasword you will use and memorize it or write it elsewhere in a secured location.
+Open the notebook, enter password/code twice. write something and save and close. It will save the note for today's date, you don't need to mention the date. You have to remember the password otherwise you will lose you notes. For the first time decide about the pasword you will use and memorize it or write it elsewhere in a secured location.
 
 ![image](https://github.com/user-attachments/assets/7050fbec-6a59-490b-9d8b-a1a20f0bc9d6)
 
