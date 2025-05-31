@@ -1,26 +1,23 @@
 # Note Book v1.0.0.4
 
-An efficient encrypted notebook that is convenient to save daily notes and special notes from your PC or MAC.
-You need to enter your password/code each time after running the application unless you save your password/code in the settings.txt file.
+To keep notes/diary is one step to keep life organized, one step for success and find errors of ownself.
+
+This is an efficient encrypted notebook that is convenient to save daily notes and special notes from your PC or MAC.
 
 General usage:
-Just open the notebook, write something and save and close. It will save the note for today's date, you don't need to mention the date.
+Just open the notebook, write something, save and close. It will save the note for today's date, you don't need to mention the date. When you open it again it will show today's saved note (if any).
 
 Special usage:
-Open the notebook, enter password/code twice. write something and save and close. It will save the note for today's date, you don't need to mention the date. You have to remember the password otherwise you will lose you notes. For the first time decide about the pasword you will use and memorize it or write it elsewhere in a secured location. You cannot change your password/code for a saved note.
-
-To keep notes is one step to keep life organized, one step for success and find
-errors of ownself.
+Open the notebook, enter password/code twice. write something, save and close. You have to remember the password otherwise you will lose you notes. For the first time decide about the pasword/code you will use and memorize it or write it elsewhere in a secured location. You cannot change your password/code for a saved note.
+You need to enter your password/code each time after running the application unless you save your password/code in the settings.txt file (details can be found below).
 
 ![image](https://github.com/user-attachments/assets/7050fbec-6a59-490b-9d8b-a1a20f0bc9d6)
-
 ![image](https://github.com/user-attachments/assets/91cbef0a-1bba-4e29-bd28-91f4df15b7e2)
 
 To run this program, Please download the codes from this github page. Then install latest JAVA development edition.
 Example location: https://www.oracle.com/java/technologies/downloads/ .
-After you have installed JAVA you may have to add the java development location to the "path" environment variable unless the installer sets it automatically.
-Then double click on the Run.bat file to run the program(in windows). To run in Max or Linux you may need to use the Run.sh file.
-for more referance see: "Readme(How To Run).txt" file.
+After you have installed JAVA you may have to add the java development location to the "path" environment variable unless the installer sets it automatically. Latest installers generally sets it automatically.
+Then double click on the Run.bat file to run the program (in Windows). To run in Mac or Linux you may need to use/execute the Run.sh file.
 
 This software is used to keep track of daily notes
 ensuring security of the notes. Also special files can be saved as a quick referance.
@@ -30,8 +27,7 @@ Press F5 to get time.
 Press F1, F2, F3 or F4 to view corresponding special files.
 Press F9 to view today's note.
 You can navigate to the upper "Browse" TAB to view old files.
-When you are on the Browse tab, double click on the tree nodes(FILES)
-repeatedly to expand the nodes.
+When you are on the Browse tab, double click on the tree nodes (FILES) to expand the nodes.
 
 ADVANCED:
 
@@ -43,7 +39,7 @@ program to not work.
 In the settings file, every first line is a key
 and second line is the value of that key.
 Do not change the key, only change the value
-(the 2nd, 4th, 6th, 8th line, and so on )
+(the 2nd, 4th, 6th, 8th line, and so on).
 Encryption technique is used in the program.
 This makes your files ambiguous to others.
 Change the encryption password if needed
@@ -53,13 +49,9 @@ Or you can change the value of the key: "useDefaultEncryptionPassword"
 to "no".
 In that case, this program will always
 prompt you for entering password(key) every time this
-program is run.
-It is upto you whether you keep your password in
-settings file or provide it every time
-this program runs.
-If you do not change the settings file at all
-this program will use the key "password"
-as a password(according to the default settings).
+program is run. You need to enter the password/code twice to prevent typo related errors.
+It is upto you whether you keep your password in settings file or provide it every time this program runs.
+If you do not change the settings file at all this program will use the key "password" or "no need" as a password(according to the default settings).
 You can also change the date/time format if you like.
 
 
@@ -70,8 +62,8 @@ In that case, do not save the document;
 Otherwise that document will be corrupted.
 So, if needed keep a backup of your notes.
 
-Password Hint: If you are sure that your pc is secure,
-you can keep your password in Settings.txt file.
+Password/code Hint: If you are sure that your pc is secure,
+you can keep your password/code in Settings.txt file.
 
 Sample date/time format:
 [%1$Td-%1$Tb-%1$TY %1$tI:%1$tM%1$Tp %1$Ta(GMT+6)]
@@ -87,4 +79,5 @@ Email:
 islam.wasiqul@gmail.com
 LinkedIn:
 https://www.linkedin.com/in/wasiqul-islam/
+
 
