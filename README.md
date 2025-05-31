@@ -81,8 +81,8 @@ or
 
 Cloud Saving: If you change your note saving location to a drive that is already synced by Dropbox or Onedrive or somethig similar than the notes are saved in the cloud automatically.
 
-Programmed by Wasiqul Islam
-Email address: 
+Programmed by Wasiqul Islam.
+Email: 
 islam.wasiqul@gmail.com
 LinkedIn:
 https://www.linkedin.com/in/wasiqul-islam/
