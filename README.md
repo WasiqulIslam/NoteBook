@@ -9,19 +9,18 @@ Just open the notebook, write something and save and close. It will save the not
 Special usage:
 Open the notebook, enter password/code twice. write something and save and close. It will save the note for today's date, you don't need to mention the date. You have to remember the password otherwise you will lose you notes. For the first time decide about the pasword you will use and memorize it or write it elsewhere in a secured location. You cannot change your password/code for a saved note.
 
+To keep notes is one step to keep life organized, one step for success and find
+errors of ownself.
+
 ![image](https://github.com/user-attachments/assets/7050fbec-6a59-490b-9d8b-a1a20f0bc9d6)
 
 ![image](https://github.com/user-attachments/assets/91cbef0a-1bba-4e29-bd28-91f4df15b7e2)
 
-To run this program, please install latest JAVA development edition.
-Example location:
-https://www.oracle.com/java/technologies/downloads/ .
-After you have installed JAVA you may have to add the java development location to the "path" environment variable unless the installer sets it.
+To run this program, Please download the codes from this github page. Then install latest JAVA development edition.
+Example location: https://www.oracle.com/java/technologies/downloads/ .
+After you have installed JAVA you may have to add the java development location to the "path" environment variable unless the installer sets it automatically.
 Then double click on the Run.bat file to run the program(in windows). To run in Max or Linux you may need to use the Run.sh file.
 for more referance see: "Readme(How To Run).txt" file.
-
-To keep notes is one step to keep life organized, one step for success and find
-errors of ownself.
 
 This software is used to keep track of daily notes
 ensuring security of the notes. Also special files can be saved as a quick referance.
@@ -33,7 +32,6 @@ Press F9 to view today's note.
 You can navigate to the upper "Browse" TAB to view old files.
 When you are on the Browse tab, double click on the tree nodes(FILES)
 repeatedly to expand the nodes.
-
 
 ADVANCED:
 
