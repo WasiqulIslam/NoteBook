@@ -86,8 +86,11 @@ public class NoteBookUI extends JFrame implements KeyListener,
       "%1$tA, %1$tB %1$Td %1$TY %1$tH:%1$tM:%1$tS:%1$tL\n\r" +
       "\n\r" +
       "\n\r" +
+      "If you change your note saving location to a drive that is already synced by Dropbox or Onedrive or somethig similar than the notes are saved in the cloud automatically." +
+      "\n\r" +
+      "\n\r" +
       "Programmed by Wasiqul Islam\n\r"+
-      "e-mail:(wasiqul.islam@quantummethod.org.bd)\n\r";
+      "e-mail:(islam.wasiqul@gmail.com)\n\r";
  
    public NoteBookUI()
    throws IOException, UserException
