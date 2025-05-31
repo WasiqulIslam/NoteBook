@@ -8,7 +8,7 @@ To run this program, install jdk1.5 or higher.
 After you have installed jdk1.5, double click run.bat file to run the program(in windows).
 for more referance see: "Readme(How To Run).txt" file.
 
-Morale: To keep notes is one step to keep life organized;one step for success and find
+Usage: To keep notes is one step to keep life organized;one step for success and find
 errors of ownself.
 
 This software is used to keep track of daily notes
