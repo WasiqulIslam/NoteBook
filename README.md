@@ -13,7 +13,7 @@ Open the notebook, enter password/code twice. write something and save and close
 
 ![image](https://github.com/user-attachments/assets/91cbef0a-1bba-4e29-bd28-91f4df15b7e2)
 
-To run this program, please install JAVA development edition.
+To run this program, please install latest JAVA development edition.
 Example location:
 https://www.oracle.com/java/technologies/downloads/ .
 After you have installed JAVA you may have to add the java development location to the "path" environment variable unless the installer sets it.
