@@ -6,7 +6,7 @@
 
 To run this program, install jdk1.5 or higher.
 Example location:
-https://www.oracle.com/java/technologies/downloads/
+https://www.oracle.com/java/technologies/downloads/ .
 After you have installed jdk1.5, double click run.bat file to run the program(in windows).
 for more referance see: "Readme(How To Run).txt" file.
 
