@@ -1,6 +1,6 @@
 # Note Book v1.0.0.4
 
-An efficient encrypted notebook that is convenient to save daily notes and special notes.
+An efficient encrypted notebook that is convenient to save daily notes and special notes from your PC or MAC.
 You need to enter your password/code each time after running the application unless you save your password/code in the settings.txt file.
 
 General usage:
