@@ -70,6 +70,7 @@ or
 or
 %1$tA, %1$tB %1$Td %1$TY %1$tH:%1$tM:%1$tS:%1$tL
 
+If you change your note saving location to a drive that is already synced by Dropbox or Onedrive or somethig similar than the notes are saved in the cloud automatically.
 
 Programmed by Wasiqul Islam
 e-mail:(islam.wasiqul@gmail.com)
