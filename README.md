@@ -1,16 +1,23 @@
 # Note Book v1.0.0.4
 
+An efficient encrypted notebook that is convenient to save daily notes and special notes.
+Everytime you need to enter your password/code after running the application unless you save your password/code in the settings.txt file.
+
+General usage:
+Just open the notebook, write something and save and close. It will save the note for today's date, you don't need to mention the date.
+
 ![image](https://github.com/user-attachments/assets/7050fbec-6a59-490b-9d8b-a1a20f0bc9d6)
 
 ![image](https://github.com/user-attachments/assets/91cbef0a-1bba-4e29-bd28-91f4df15b7e2)
 
-To run this program, install jdk1.5 or higher.
+To run this program, please install JAVA development edition.
 Example location:
 https://www.oracle.com/java/technologies/downloads/ .
-After you have installed jdk1.5, double click run.bat file to run the program(in windows).
+After you have installed JAVA you may have to add the java development location to the "path" environment variable unless the installer sets it.
+Then double click on the Run.bat file to run the program(in windows). To run in Max or Linux you may need to use the Run.sh file.
 for more referance see: "Readme(How To Run).txt" file.
 
-Usage: To keep notes is one step to keep life organized;one step for success and find
+To keep notes is one step to keep life organized, one step for success and find
 errors of ownself.
 
 This software is used to keep track of daily notes
@@ -62,7 +69,7 @@ In that case, do not save the document;
 Otherwise that document will be corrupted.
 So, if needed keep a backup of your notes.
 
-Password Note: If you are sure that your pc is secure,
+Password Hint: If you are sure that your pc is secure,
 you can keep your password in Settings.txt file.
 
 Sample date/time format:
@@ -72,7 +79,11 @@ or
 or
 %1$tA, %1$tB %1$Td %1$TY %1$tH:%1$tM:%1$tS:%1$tL
 
-If you change your note saving location to a drive that is already synced by Dropbox or Onedrive or somethig similar than the notes are saved in the cloud automatically.
+Cloud Saving: If you change your note saving location to a drive that is already synced by Dropbox or Onedrive or somethig similar than the notes are saved in the cloud automatically.
 
 Programmed by Wasiqul Islam
-e-mail:(islam.wasiqul@gmail.com)
+Email address: 
+islam.wasiqul@gmail.com
+LinkedIn:
+https://www.linkedin.com/in/wasiqul-islam/
+
