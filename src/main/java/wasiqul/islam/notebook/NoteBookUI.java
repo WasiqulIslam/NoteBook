@@ -29,7 +29,7 @@ public class NoteBookUI extends JFrame implements KeyListener,
    private NoteBook noteBook = null;
    private boolean modified = false;
    String noteBookTitle = null;
-   String helpMessage = "Note Book v1.0.0.4 \n\r" +
+   String helpMessage = "Note Book\n\r" +
       "This software is used to keep track of daily notes\n\r" +
       "ensuring security of the notes.\n\r" +
       "After you have completed writing your note\n\r" +
@@ -107,7 +107,11 @@ public class NoteBookUI extends JFrame implements KeyListener,
       jTabbedPane = new JTabbedPane( JTabbedPane.TOP );
       add( jTabbedPane );
 
+      Font unicodeFont = 
+         new Font("Arial Unicode MS", Font.PLAIN, 14); 
+         //This font is hardcoded for Windows, you can change it if needed
       jTextArea = new JTextArea();
+      jTextArea.setFont( unicodeFont.deriveFont( 18.0f) );
       jTextArea.addKeyListener( this );
       jTabbedPane.add( "Notes", new JScrollPane( jTextArea ) );
 

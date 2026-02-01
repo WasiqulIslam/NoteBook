@@ -197,7 +197,7 @@ public class Encryptor
    String key, boolean encrypt )
    {
       StringBuilder allTexts = new StringBuilder();
-      int tmp;
+      short tmp;
       int j = 0;
       for( int i = 0; i < text.length(); i++, j++ )
       {
@@ -205,14 +205,14 @@ public class Encryptor
          {
             j = 0;
          }
-         tmp = (int)text.charAt( i );
+         tmp = (short)text.charAt( i );
          if( encrypt )
          {
-            tmp += (int)key.charAt(j);
+            tmp += (short)key.charAt(j);
          }
          else  //decrypt
          {
-            tmp += characterMax - (int)key.charAt(j);
+            tmp += characterMax - (short)key.charAt(j);
          }
          tmp %= characterMax;
          allTexts.append( (char) tmp );
