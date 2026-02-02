@@ -10,3 +10,7 @@ useDefaultEncryptionPassword
 yes
 defaultEncryptionPassword
 password
+fontFamily
+Arial Unicode MS
+fontSize
+18.0

@@ -1,16 +1,15 @@
 
-Morale: To keep notes is one step to keep life organized;one step for success and find
-errors of ownself.
+Morale: To keep notes is one step to keep life organized;  one step for success; one step to find
+own errors.
 
-This software is used to keep track of daily notes
-ensuring security of the notes. Also special files can be saved as a quick referance.
+This software is used to keep track of daily notes by ensuring the security of the notes. Special files can be saved as a quick reference.
 After you have completed writing your note
 press Ctrl+S to save.
 Press F5 to get time.
 Press F1, F2, F3 or F4 to view corresponding special files.
 Press F9 to view today's note.
 You can navigate to the upper "Browse" TAB to view old files.
-When you are on the Browse tab, double click on the tree nodes(FILES)
+When you are on the Browse tab, double-click on the tree nodes(FILES)
 repeatedly to expand the nodes.
 
 
@@ -35,7 +34,7 @@ to "no".
 In that case, this program will always
 prompt you for entering password(key) every time this
 program is run.
-It is upto you whether you keep your password in
+It is up-to you whether you keep your password in
 settings file or provide it every time
 this program runs.
 If you do not change the settings file at all

@@ -100,6 +100,7 @@ public class NoteBookUI extends JFrame implements KeyListener,
 
       super( "Note Book" );
 
+      noteBook = new NoteBook();
       noteBookTitle = this.getTitle();
       this.setDefaultCloseOperation( JFrame.DO_NOTHING_ON_CLOSE );
       this.addWindowListener( this );
@@ -107,15 +108,15 @@ public class NoteBookUI extends JFrame implements KeyListener,
       jTabbedPane = new JTabbedPane( JTabbedPane.TOP );
       add( jTabbedPane );
 
-      Font unicodeFont = 
-         new Font("Arial Unicode MS", Font.PLAIN, 14); 
-         //This font is hardcoded for Windows, you can change it if needed
+      String fontName = noteBook.getSettings( "fontFamily" );
+      Font font = 
+         new Font(fontName, Font.PLAIN, 14); 
       jTextArea = new JTextArea();
-      jTextArea.setFont( unicodeFont.deriveFont( 18.0f) );
+      float fontSize = Float.parseFloat( noteBook.getSettings( "fontSize" ) );   
+      jTextArea.setFont( font.deriveFont( fontSize ) );
       jTextArea.addKeyListener( this );
       jTabbedPane.add( "Notes", new JScrollPane( jTextArea ) );
 
-      noteBook = new NoteBook();
       jTextArea.setText( noteBook.getTodaySNote() );
 
       prepareTree();

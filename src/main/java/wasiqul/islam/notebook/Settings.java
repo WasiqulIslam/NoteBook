@@ -42,6 +42,8 @@ public class Settings
       checkKey( "dateFormat" );
       checkKey( "useDefaultEncryptionPassword" );
       checkKey( "defaultEncryptionPassword" );
+      checkKey( "fontFamily" );
+      checkKey( "fontSize" );
 
    }
 

@@ -7,6 +7,10 @@ fileExtension
 dateFormat
 [%1$Td-%1$Tb-%1$TY %1$tI:%1$tM%1$Tp %1$Ta(GMT+6)]
 useDefaultEncryptionPassword
-no
+yes
 defaultEncryptionPassword
-no need
+TypeYourOwnPasswordHere
+fontFamily
+Arial Unicode MS
+fontSize
+18.0
