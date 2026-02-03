@@ -1,4 +1,4 @@
-# Note Book v1.0.0.4
+# Note Book v1.1.1.0
 
 This is an efficient and secure notebook or diary app that you can use in your PC.
 
