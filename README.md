@@ -14,7 +14,7 @@ However, if you forget the password, I will not be able to recover it. If you lo
 
 Professional tips (for advanced users):
 
-✅ Keep your password/passcode in a secure place or use a reliable password manager.
+✅ Keep your password/passcode in a secure place or use a reliable password manager or something similar.
 
 ✅ Keep your notes in a cloud storage service such as Dropbox or OneDrive. However, do not store your password in the same cloud location.
    
