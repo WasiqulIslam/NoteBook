@@ -9,3 +9,9 @@ Just run it.
 
 ![image](https://github.com/user-attachments/assets/7050fbec-6a59-490b-9d8b-a1a20f0bc9d6)
 ![image](https://github.com/user-attachments/assets/91cbef0a-1bba-4e29-bd28-91f4df15b7e2)
+
+Howerver, if you forget the password I am not able to recover it. If you loss your notes it will be lost.
+Professional tips (for advanced users)-
+1. Keep your password/passcode in a secure place or do something similar.
+2. Keey your notes in a cloud location like Dropbox or Onedrive. But don't keep password in that same cloud location.
+   
